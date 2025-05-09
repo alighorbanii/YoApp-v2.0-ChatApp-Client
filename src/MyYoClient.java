@@ -4,7 +4,8 @@
  * But there is a twist! The user is rewarded for sending Howdys, tacked by the "cool factor", and is roasted by the app if you spam too many Yos.
  * The project utilizes a GUI, network, inheritance, and real-time communication — all while literally yelling “Yo!” at your classmates across campus or over UT Dallas' campus VPN.
  *
- * AUTHOR: Ali Ghorbani
+ * AUTHOR: Ali Ghorbani, (YoClient.java created by Professor Ricks for use)
+ *
  */
 
 import java.io.IOException;
